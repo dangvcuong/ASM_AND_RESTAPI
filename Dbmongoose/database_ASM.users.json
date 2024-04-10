@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "660baacce4847150adc20ff5"
+  },
+  "email": "cuong@gmail.com",
+  "password": "1234567",
+  "fullname": "CươngĐặng",
+  "createdAt": {
+    "$date": "2024-04-02T06:50:52.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T01:04:20.722Z"
+  },
+  "__v": 0,
+  "ngay_sinh_user": "05/01/2004",
+  "sdt_user": "1234567890",
+  "hinh_anh_user": "http://10.24.15.193:3000/uploads/hinh_anh_user-1712538260711hinh_anh_ph36210.png",
+  "dia_chi_user": "Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "661492b8e87a06ec0995e21f"
+  },
+  "email": "cuong24@gmail.com",
+  "password": "12345678",
+  "fullname": "CuongDang",
+  "createdAt": {
+    "$date": "2024-04-09T00:58:32.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:59:14.316Z"
+  },
+  "__v": 0,
+  "dia_chi_user": "Ha Noi",
+  "hinh_anh_user": "http://10.24.62.142:3000/uploads/hinh_anh_user-1712624354303hinh_anh_ph36210.png",
+  "ngay_sinh_user": "5/1/2004",
+  "sdt_user": "1234567890"
+}]

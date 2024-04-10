@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "6613ee201b4822e7e794a7b9"
+  },
+  "id_User_cart": "66136b7c7977d3187fd386a8",
+  "id_Shose_cart": "660ed16ad26f633a4c74bcea",
+  "ten_shose_cart": "Vans",
+  "gia_shose_cart": 120,
+  "hinh_anh_cart": "https://drake.vn/image/catalog/H%C3%ACnh%20content/hinh-anh-giay-vans/hinh-anh-giay-vans-17.jpg",
+  "createdAt": {
+    "$date": "2024-04-08T13:16:16.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T13:16:16.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613ffa7a898328b8cc3d953"
+  },
+  "id_User_cart": "66136b7c7977d3187fd386a8",
+  "id_Shose_cart": "660ed16ad26f633a4c74bcea",
+  "ten_shose_cart": "Vans",
+  "gia_shose_cart": 120,
+  "hinh_anh_cart": "https://drake.vn/image/catalog/H%C3%ACnh%20content/hinh-anh-giay-vans/hinh-anh-giay-vans-17.jpg",
+  "createdAt": {
+    "$date": "2024-04-08T14:31:03.738Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T14:31:03.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66140297c92b3f70047ab9a0"
+  },
+  "id_User_cart": "660baacce4847150adc20ff5",
+  "id_Shose_cart": "660ed16ad26f633a4c74bcea",
+  "ten_shose_cart": "Vans",
+  "gia_shose_cart": 120,
+  "hinh_anh_cart": "https://drake.vn/image/catalog/H%C3%ACnh%20content/hinh-anh-giay-vans/hinh-anh-giay-vans-17.jpg",
+  "createdAt": {
+    "$date": "2024-04-08T14:43:35.856Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T14:43:35.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66140299c92b3f70047ab9a2"
+  },
+  "id_User_cart": "660baacce4847150adc20ff5",
+  "id_Shose_cart": "660ed227ca035b0278f8a41c",
+  "ten_shose_cart": "Nike Air Force 1",
+  "gia_shose_cart": 130,
+  "hinh_anh_cart": "https://ordixi.com/wp-content/uploads/2020/10/0eb4c83d.jpg",
+  "createdAt": {
+    "$date": "2024-04-08T14:43:37.412Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T14:43:37.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614029cc92b3f70047ab9a4"
+  },
+  "id_User_cart": "660baacce4847150adc20ff5",
+  "id_Shose_cart": "6610457d278d410e666b3b01",
+  "ten_shose_cart": "Vans",
+  "gia_shose_cart": 90,
+  "hinh_anh_cart": "https://drake.vn/image/catalog/banner/Tin%20t%E1%BB%A9c/untitled%20folder%201/era.jpg",
+  "createdAt": {
+    "$date": "2024-04-08T14:43:40.208Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T14:43:40.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614029ec92b3f70047ab9a6"
+  },
+  "id_User_cart": "660baacce4847150adc20ff5",
+  "id_Shose_cart": "66104583278d410e666b3b02",
+  "ten_shose_cart": "MLB",
+  "gia_shose_cart": 163,
+  "hinh_anh_cart": "https://cdn.vuahanghieu.com/unsafe/0x500/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2022/06/giay-the-thao-mlb-spring-new-casual-comfortable-fashion-3asxca12n-50whs-mau-trang-phoi-den-size-245-62afece8003bc-20062022104336.jpg",
+  "createdAt": {
+    "$date": "2024-04-08T14:43:42.399Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T14:43:42.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66140d5b4efbd89a84469213"
+  },
+  "id_User_cart": "66140d374efbd89a84469208",
+  "id_Shose_cart": "660ed16ad26f633a4c74bcea",
+  "ten_shose_cart": "Vans",
+  "gia_shose_cart": 120,
+  "hinh_anh_cart": "https://drake.vn/image/catalog/H%C3%ACnh%20content/hinh-anh-giay-vans/hinh-anh-giay-vans-17.jpg",
+  "createdAt": {
+    "$date": "2024-04-08T15:29:31.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T15:29:31.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66140d644efbd89a84469219"
+  },
+  "id_User_cart": "66140d374efbd89a84469208",
+  "id_Shose_cart": "660ed227ca035b0278f8a41c",
+  "ten_shose_cart": "Nike Air Force 1",
+  "gia_shose_cart": 130,
+  "hinh_anh_cart": "https://ordixi.com/wp-content/uploads/2020/10/0eb4c83d.jpg",
+  "createdAt": {
+    "$date": "2024-04-08T15:29:40.786Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T15:29:40.786Z"
+  },
+  "__v": 0
+}]

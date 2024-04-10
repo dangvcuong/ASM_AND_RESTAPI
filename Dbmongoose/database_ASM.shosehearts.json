@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "661492f1e87a06ec0995e236"
+  },
+  "id_User_heart": "661492b8e87a06ec0995e21f",
+  "id_Shose_heart": "660ed16ad26f633a4c74bcea",
+  "shose_Name_heart": "Vans",
+  "description_heart": "Vans với thiết kế năng động, kiểu dáng đơn giản không cầu kì được mọi người ưa chuộng. Từ những dòng Era, Authentic cho đến Old Skool, Sk8-Hi, Vans luôn chiếm được chỗ đứng trong bộ sưu tập của nhiều đầu giày, không chỉ riêng skaters. Dòng Vans Classics đến tận nay vẫn thu hút nhiều sự quan tâm nhất đối với những ai tìm đến thương hiệu Vans, nhưng liệu bạn đã biết hết tất cả những phong cách giày nằm trong dòng Classics này? Hãy cũng Drake tìm hiểu nhé!",
+  "price_heart": 120,
+  "image_anh_heart": "https://drake.vn/image/catalog/H%C3%ACnh%20content/hinh-anh-giay-vans/hinh-anh-giay-vans-17.jpg",
+  "createdAt": {
+    "$date": "2024-04-09T00:59:29.009Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:59:29.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661492f2e87a06ec0995e238"
+  },
+  "id_User_heart": "661492b8e87a06ec0995e21f",
+  "id_Shose_heart": "660ed227ca035b0278f8a41c",
+  "shose_Name_heart": "Nike Air Force 1",
+  "description_heart": "Nike là một trong những thương hiệu thể thao nổi tiếng nhất trên thế giới. Từ học sinh tiểu học cho đến các vận động viên chuyên nghiệp, không ai có thể phủ nhận sức hấp dẫn của Nike. Nếu bạn khảo sát xem có bao nhiêu người đã hoặc đang sở hữu các sản phẩm của Nike, thì con số này sẽ khiến bạn bất ngờ.",
+  "price_heart": 130,
+  "image_anh_heart": "https://ordixi.com/wp-content/uploads/2020/10/0eb4c83d.jpg",
+  "createdAt": {
+    "$date": "2024-04-09T00:59:30.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:59:30.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661492f3e87a06ec0995e23a"
+  },
+  "id_User_heart": "661492b8e87a06ec0995e21f",
+  "id_Shose_heart": "6610457d278d410e666b3b01",
+  "shose_Name_heart": "Vans",
+  "description_heart": "Đây cũng là dòng giày mang cho mình hơi hướng hiện đại và mới mẻ nhất. Vans Era được thiết kế với các chi tiết từ vải cho đến đường chỉ may hoàn toàn khác biệt so với phong cách đường phố đặc trưng của những đôi giày Vans.",
+  "price_heart": 90,
+  "image_anh_heart": "https://drake.vn/image/catalog/banner/Tin%20t%E1%BB%A9c/untitled%20folder%201/era.jpg",
+  "createdAt": {
+    "$date": "2024-04-09T00:59:31.408Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:59:31.408Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "660ed16ad26f633a4c74bcea"
+  },
+  "shoseName": "Vans",
+  "image_anh": "https://drake.vn/image/catalog/H%C3%ACnh%20content/hinh-anh-giay-vans/hinh-anh-giay-vans-17.jpg",
+  "description": "Vans với thiết kế năng động, kiểu dáng đơn giản không cầu kì được mọi người ưa chuộng. Từ những dòng Era, Authentic cho đến Old Skool, Sk8-Hi, Vans luôn chiếm được chỗ đứng trong bộ sưu tập của nhiều đầu giày, không chỉ riêng skaters. Dòng Vans Classics đến tận nay vẫn thu hút nhiều sự quan tâm nhất đối với những ai tìm đến thương hiệu Vans, nhưng liệu bạn đã biết hết tất cả những phong cách giày nằm trong dòng Classics này? Hãy cũng Drake tìm hiểu nhé!",
+  "price": 120,
+  "createdAt": {
+    "$date": "2024-04-04T16:12:26.112Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-04T16:12:26.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660ed227ca035b0278f8a41c"
+  },
+  "shoseName": "Nike Air Force 1",
+  "description": "Nike là một trong những thương hiệu thể thao nổi tiếng nhất trên thế giới. Từ học sinh tiểu học cho đến các vận động viên chuyên nghiệp, không ai có thể phủ nhận sức hấp dẫn của Nike. Nếu bạn khảo sát xem có bao nhiêu người đã hoặc đang sở hữu các sản phẩm của Nike, thì con số này sẽ khiến bạn bất ngờ.",
+  "price": 130,
+  "image_anh": "https://ordixi.com/wp-content/uploads/2020/10/0eb4c83d.jpg",
+  "createdAt": {
+    "$date": "2024-04-04T16:15:35.807Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-04T16:15:35.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6610457d278d410e666b3b01"
+  },
+  "shoseName": "Vans",
+  "image_anh": "https://drake.vn/image/catalog/banner/Tin%20t%E1%BB%A9c/untitled%20folder%201/era.jpg",
+  "description": "Đây cũng là dòng giày mang cho mình hơi hướng hiện đại và mới mẻ nhất. Vans Era được thiết kế với các chi tiết từ vải cho đến đường chỉ may hoàn toàn khác biệt so với phong cách đường phố đặc trưng của những đôi giày Vans.",
+  "price": 90,
+  "createdAt": {
+    "$date": "2024-04-04T16:12:26.112Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-04T16:12:26.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66104583278d410e666b3b02"
+  },
+  "shoseName": "MLB",
+  "description": "Khám phá sự kết hợp hoàn hảo giữa phong cách cá tính và thiết kế thể thao với đôi giày sneakers Chunky Liner Diamond Monogram. Được làm từ chất liệu da bền bỉ kết hợp cùng phần đế vững chắc giúp hỗ trợ tối đa mỗi bước đi của bạn, đôi giày còn được thiết kế bởi tông màu trắng làm chủ đạo kết hợp cùng các đường viền mang hiệu ứng tương phản, hứa hẹn sẽ là item không thể thiếu trong tủ đồ của bất kỳ tín đồ thời trang nào, đặc biệt là những người yêu mến thương hiệu MLB.",
+  "price": 163,
+  "image_anh": "https://cdn.vuahanghieu.com/unsafe/0x500/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2022/06/giay-the-thao-mlb-spring-new-casual-comfortable-fashion-3asxca12n-50whs-mau-trang-phoi-den-size-245-62afece8003bc-20062022104336.jpg",
+  "createdAt": {
+    "$date": "2024-04-04T16:15:35.807Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-04T16:15:35.807Z"
+  },
+  "__v": 0
+}]

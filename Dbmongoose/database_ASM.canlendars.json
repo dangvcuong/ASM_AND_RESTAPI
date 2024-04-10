@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "66140292c92b3f70047ab998"
+  },
+  "id_User_Calendar": "660baacce4847150adc20ff5",
+  "id_Shose_Calendar": "660ed16ad26f633a4c74bcea",
+  "id_cart_Calendar": "6614028fc92b3f70047ab994",
+  "ten_shose_Calendar": "Vans",
+  "gia_shose_Calendar": 120,
+  "hinh_anh_Calendar": "https://drake.vn/image/catalog/H%C3%ACnh%20content/hinh-anh-giay-vans/hinh-anh-giay-vans-17.jpg",
+  "date_Calendar": "8/4/2024 |--| 21:43:31",
+  "createdAt": {
+    "$date": "2024-04-08T14:43:30.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T14:43:30.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661492e9e87a06ec0995e22e"
+  },
+  "id_User_Calendar": "661492b8e87a06ec0995e21f",
+  "id_Shose_Calendar": "660ed16ad26f633a4c74bcea",
+  "id_cart_Calendar": "661492c8e87a06ec0995e224",
+  "ten_shose_Calendar": "Vans",
+  "gia_shose_Calendar": 120,
+  "hinh_anh_Calendar": "https://drake.vn/image/catalog/H%C3%ACnh%20content/hinh-anh-giay-vans/hinh-anh-giay-vans-17.jpg",
+  "date_Calendar": "9/4/2024 |--| 7:59:21",
+  "createdAt": {
+    "$date": "2024-04-09T00:59:21.404Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T00:59:21.404Z"
+  },
+  "__v": 0
+}]

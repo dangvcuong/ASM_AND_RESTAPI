@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/btn_back"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/baseline_arrow_back_24" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/ten_SP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Complete your profile"
+                android:textColor="@color/black"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="30dp">
+            <ImageView
+                android:id="@+id/updata_anh_user"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/bogoc"
+                android:src="@drawable/baseline_photo_camera_24"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <EditText
+                android:id="@+id/update_ten_user"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:background="@drawable/input"
+                android:hint="Tên"
+                android:textColorHint="#888888"
+                android:textColor="@color/black"
+                android:padding="10dp"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/update_ho_user"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:background="@drawable/input"
+                android:hint="Họ"
+                android:textColorHint="#888888"
+                android:textColor="@color/black"
+                android:padding="10dp"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/updata_dia_chi_user"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:background="@drawable/input"
+                android:hint="Địa chỉ"
+                android:textColorHint="#888888"
+                android:textColor="@color/black"
+                android:padding="10dp"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/updata_ngay_sinh_user"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:background="@drawable/input"
+                android:hint="DD/MM/YYYY"
+                android:textColorHint="#888888"
+                android:textColor="@color/black"
+                android:padding="10dp"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/update_sdt_user"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:background="@drawable/input"
+                android:hint="Số điện thoại"
+                android:textColorHint="#888888"
+                android:textColor="@color/black"
+                android:padding="10dp"
+                android:layout_marginBottom="10dp"/>
+            <Button
+                android:id="@+id/btn_update_user"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:background="@drawable/btn"
+                android:text="Complete your profile"
+                android:textColor="@color/white"
+                android:textSize="20dp"
+                android:layout_marginBottom="15dp"
+                android:textStyle="normal"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

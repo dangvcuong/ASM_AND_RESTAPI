@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E8E8E8"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginLeft="10dp"
+          android:layout_marginTop="30dp"
+          android:orientation="horizontal">
+
+         <ImageView
+             android:layout_width="30dp"
+             android:layout_height="30dp"
+             android:src="@drawable/baseline_arrow_back_24" />
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:gravity="center">
+
+         <ImageView
+             android:layout_width="200dp"
+             android:layout_height="200dp"
+             android:src="@drawable/logo2" />
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:gravity="center"
+          android:orientation="horizontal">
+
+         <TextView
+             android:id="@+id/ten_SP"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="100dp"
+             android:text="Shoe Like"
+             android:textColor="@color/black"
+             android:textSize="40dp"
+             android:textStyle="bold" />
+
+         <TextView
+             android:id="@+id/gia_SP"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="100$"
+             android:textColor="#F40707"
+             android:textSize="40dp"
+             android:textStyle="italic" />
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_margin="25dp"
+          android:gravity="center">
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Sneaker thể thao không chỉ là một phụ kiện thời trang, mà còn là công cụ quan trọng giúp tăng cường hiệu suất và thoải mái trong các hoạt động thể chất. Với sự kết hợp tinh tế giữa thiết kế và công nghệ, sneaker thể thao không ngừng phát triển và trở thành biểu tượng của phong cách và sức khỏe. Hãy cùng khám phá sâu hơn về sức hút và ý nghĩa của sneaker thể thao trong bài viết này."
+             android:textSize="18dp"
+             android:textStyle="bold" />
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+          android:gravity="center"
+          android:layout_marginBottom="10dp">
+         <Button
+             android:layout_width="300dp"
+             android:layout_height="50dp"
+             android:text="Add to Cart"
+             android:background="@drawable/btn"
+             android:layout_marginBottom="10dp"/>
+         <Button
+             android:layout_width="300dp"
+             android:layout_height="50dp"
+             android:text="Add to Fevorit"
+             android:background="@drawable/btn_ggfbap"/>
+      </LinearLayout>
+
+
+   </LinearLayout>
+
+</ScrollView>
