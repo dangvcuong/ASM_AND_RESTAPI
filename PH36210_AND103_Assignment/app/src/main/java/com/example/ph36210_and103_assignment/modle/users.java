@@ -3,9 +3,9 @@ package com.example.ph36210_and103_assignment.modle;
 import java.io.Serializable;
 
 public class users implements Serializable {
-        private String _id, email, password, fullname, hinh_anh_user, ngay_sinh_user, sdt_user,dia_chi_user;
+    private String _id, email, password, fullname, hinh_anh_user, ngay_sinh_user, sdt_user, dia_chi_user;
     private String createAt, updatedAt;
-
+//comemnt
     public users() {
     }
 
