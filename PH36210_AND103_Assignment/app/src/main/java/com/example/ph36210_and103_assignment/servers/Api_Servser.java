@@ -7,6 +7,7 @@ import com.example.ph36210_and103_assignment.modle.Shose;
 import com.example.ph36210_and103_assignment.modle.SpHeart;
 import com.example.ph36210_and103_assignment.modle.users;
 
+
 import java.util.ArrayList;
 
 import okhttp3.MultipartBody;
@@ -23,7 +24,7 @@ import retrofit2.http.Path;
 import retrofit2.http.Query;
 
 public interface Api_Servser {
-    public static String BASE_URL = "http://10.24.62.142:3000/api/";
+    public static String BASE_URL = "http://192.168.1.7:3000/api/";
 
     //192.168.1.7
     //10.0.2.2
@@ -33,7 +34,7 @@ public interface Api_Servser {
                                    @Part("password") RequestBody password,
                                    @Part("fullname") RequestBody fullname);
     @POST("login")
-    Call<Response<users>> login(@Body users user);
+    Call<Response<users>> login(@Body users users);
     @GET("get_user_id/{id}")
     Call<Response<users>> getuserID(@Path("id") String id);
     @GET("get-list-user")

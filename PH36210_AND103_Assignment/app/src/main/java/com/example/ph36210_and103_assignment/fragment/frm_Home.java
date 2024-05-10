@@ -123,7 +123,6 @@ public class frm_Home extends Fragment {
                                     DividerItemDecoration dividerItemDecoration1 = new DividerItemDecoration(getContext(), DividerItemDecoration.VERTICAL);
                                     recyclerView2.addItemDecoration(dividerItemDecoration1);
                                     recyclerView2.setAdapter(adapterSp1);
-                                    Toast.makeText(getContext(), "Tim thay", Toast.LENGTH_SHORT).show();
                                 }
                             }
                         }
